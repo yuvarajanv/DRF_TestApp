@@ -1,0 +1,15 @@
+appengine-sdk
+Django==1.11.6
+django-cors-headers==2.1.0
+django-filter==1.1.0
+djangorestframework==3.6.4
+djangorestframework-jwt==1.11.0
+flake8
+jsonfield==2.0.2
+MySQL-python==1.2.5
+PyYAML==3.12
+python-dateutil==2.6.1
+python-memcached==1.59
+requests_toolbelt
+WebOb==1.7.4
+webapp2
